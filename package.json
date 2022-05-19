@@ -1,0 +1,16 @@
+{
+  "name": "conferencesched",
+  "version": "1.0.0",
+  "description": "An attempt to solve the conference scheduling problem in Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "luxon": "^2.4.0"
+  }
+}
